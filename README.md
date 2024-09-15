@@ -1,4 +1,4 @@
-# heredity
+# Genomic Inheirtance Model
 
 ## Overview
 
@@ -8,10 +8,11 @@ This project utilizes Bayesian Networks to make inferences about a population's 
 2. Probability distributions for trait exhibition in any person
 ## Background
 
-Hearing impairment affects millions of newborns worldwide, with mutated versions of the GJB2 gene being a leading cause. Each individual carries two copies of the GJB2 gene, with 0, 1, or 2 copies potentially being mutated. This project simulates the inheritance patterns of the GJB2 gene, accounting for:
+Hearing impairment affects millions of newborns worldwide, with mutated versions of the GJB2 gene being a leading cause. This project explores the probabilistic relationships between GJB2 gene inheritance and hearing impairment, shedding light on the complex interactions between genetic and environmental factors. This project simulates the inheritance patterns of the GJB2 gene, accounting for:
 
 - Probabilistic gene transmission from parents to offspring
 - Potential gene mutations after transmission
+
 ## Project Goals
 
 This Heredity project implements a Bayesian Network to:
